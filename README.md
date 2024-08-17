@@ -1,6 +1,6 @@
 # Asistente Personal de IA Rápido
 
-> Un marco de inicio rápido para un asistente personal de IA usando OpenAI, Groq e ElevenLabs.
+> Crea tu asistente personal de IA usando OpenAI, Groq e ElevenLabs.
 
 ![tu-ia](./img/thumbnail.png)
 
