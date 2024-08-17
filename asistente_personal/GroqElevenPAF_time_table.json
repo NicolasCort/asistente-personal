@@ -1,0 +1,116 @@
+[
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "generate_voice_audio",
+    "duration": "2.28",
+    "position": 0
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.44",
+    "position": 1
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.15",
+    "position": 2
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "generate_voice_audio",
+    "duration": "3.54",
+    "position": 3
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "3.14",
+    "position": 4
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.18",
+    "position": 5
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "generate_voice_audio",
+    "duration": "2.24",
+    "position": 6
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.65",
+    "position": 7
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.20",
+    "position": 8
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "generate_voice_audio",
+    "duration": "2.29",
+    "position": 9
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.56",
+    "position": 10
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.38",
+    "position": 11
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "generate_voice_audio",
+    "duration": "2.59",
+    "position": 12
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.15",
+    "position": 13
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "3.32",
+    "position": 14
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.28",
+    "position": 15
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.11",
+    "position": 16
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "think",
+    "duration": "1.11",
+    "position": 17
+  },
+  {
+    "assistant": "GroqElevenPAF",
+    "function": "transcribe",
+    "duration": "2.31",
+    "position": 18
+  }
+]

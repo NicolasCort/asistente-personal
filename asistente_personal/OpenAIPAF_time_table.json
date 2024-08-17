@@ -1,0 +1,56 @@
+[
+  {
+    "assistant": "OpenAIPAF",
+    "function": "generate_voice_audio",
+    "duration": "3.07",
+    "position": 0
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "think",
+    "duration": "1.17",
+    "position": 1
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "transcribe",
+    "duration": "2.57",
+    "position": 2
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "generate_voice_audio",
+    "duration": "3.21",
+    "position": 3
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "think",
+    "duration": "1.43",
+    "position": 4
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "transcribe",
+    "duration": "2.55",
+    "position": 5
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "generate_voice_audio",
+    "duration": "2.51",
+    "position": 6
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "think",
+    "duration": "1.25",
+    "position": 7
+  },
+  {
+    "assistant": "OpenAIPAF",
+    "function": "transcribe",
+    "duration": "1.99",
+    "position": 8
+  }
+]
