@@ -1,52 +1,56 @@
-# Fast Personal AI Assistant
-> Fast TTS & STT
->
-> A quick start personal AI assistant framework using OpenAI, Groq, AssemblyAI and ElevenLabs.
+# Asistente Personal de IA Rápido
 
-![own-your-ai](./img/own-your-ai.png)
+> Un marco de inicio rápido para un asistente personal de IA usando OpenAI, Groq e ElevenLabs.
 
-## Setup
+![tu-ia](./img/thumbnail.png)
 
-- Create and activate virtual environment:
+## Configuración
+
+- Clona el repositorio:
   ```bash
-  python -m venv venv
-  source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+  git clone https://github.com/NicolasCort/asistente-personal.git  # Necesitas tener instalado Git`
   ```
 
-- Install dependencies:
+- Crea y activa un entorno virtual:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate  # En Mac, usa `source venv/bin/activate`
+  ```
+
+- Instala las dependencias:
   ```bash
   pip install -r requirements.txt
   ```
 
-- Set up environment variables:
+- Configura las variables de entorno:
   ```bash
-  cp .env.sample .env
-  # Edit .env file and add your API keys
+  # Edita el archivo .env y añade tus claves API
   ```
-  `I recommend starting with the OpenAI assistant since you only need to set up the OpenAI API key.`.
+  `Recomiendo comenzar con el asistente de OpenAI ya que solo necesitas configurar la clave API de OpenAI.`
 
-- Run the main script:
+- Ejecuta el script principal:
   ```bash
   python main.py
   ```
 
-- Press `Enter` to start recording, and `Enter` again to stop recording.
+- Presiona `Enter` para comenzar a grabar y `Enter` nuevamente para detener la grabación.
 
-- Adjust the maximum duration of the recording in `constants.py: DURATION`
+- Ajusta la duración máxima de la grabación en `constants.py: DURATION`
 
-- Update configuration variables in `constants.py`
-  - Tweak naming.
-  - Update the prompt to your liking.
-  - Update the assistant type to the one you want to use.
+- Actualiza las variables de configuración en `constants.py`
+  - Modifica los nombres.
+  - Actualiza el prompt según tus preferencias.
+  - Cambia el tipo de asistente al que prefieras usar.
 
-## Watch the walk through video
-[CONTROL your Personal AI Assistant with GPT-4o mini & ElevenLabs](https://youtu.be/ikaKpfUOb0U)
+## Mira el video de demostración
+[Crea Tu Propio Asistente Personal con IA  [GPt-4o-mini + ElevenLabs]](https://youtu.be/14g67rKExEo)
 
-## Resources
-- https://www.assemblyai.com/ 
+## Recursos
+ 
 - https://console.groq.com/docs/speech-text
 - https://console.groq.com/docs/libraries
 - https://platform.openai.com/docs/guides/speech-to-text
 - https://platform.openai.com/docs/guides/text-to-speech
 - https://platform.openai.com/docs/api-reference/audio#audio/createTranscription-prompt
 - https://openai.com/api/pricing/
+- https://elevenlabs.io/app
